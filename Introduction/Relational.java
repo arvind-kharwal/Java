@@ -1,3 +1,6 @@
+class Data1{
+
+}
 public class Relational 
 {
     public static void main(String arg[])
@@ -17,7 +20,4 @@ public class Relational
         System.out.println(new Data1()!=new Data1());
     }
     
-}
-class Data1{
-
 }
