@@ -7,6 +7,7 @@ public class Input {
         System.out.println("Enter the Number: ");
         int n = S.nextInt();
         System.out.print("The Number is: "+n);
+        S.close();
     }
     
 }
