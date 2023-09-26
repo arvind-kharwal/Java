@@ -5,9 +5,9 @@ public class Input2 {
     {
         System.out.println("Enter the number: ");
         InputStreamReader in = new InputStreamReader(System.in);
-        BufferReader bf = new BufferReader(in);
-        int n = Integer.parseInt(bf.readLine());
-        System.out.println(n);
+        //BufferReader bf = new BufferReader(in);
+        //int n = Integer.parseInt(bf.readLine());
+        //System.out.println(n);
     }
     
 }

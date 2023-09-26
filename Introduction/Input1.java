@@ -7,6 +7,7 @@ public class Input1 {
         System.out.println("Enter the Name: ");
         String n = S.nextLine();
         System.out.print("The Name is: "+n);
+        S.close();
     }
     
 }
